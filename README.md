@@ -35,6 +35,12 @@ The package is provided by the AUR. You can install it with an AUR helper of you
     tar xf j4-dmenu-desktop-git.tar.gz
     cd j4-dmenu-desktop-git
     makepkg -si
+    
+### FreeBSD
+
+The package is now in the FreeBSD Ports Collection. A prebuilt package can be installed via
+
+    pkg install j4-dmenu-desktop
 
 ### Gentoo
 
